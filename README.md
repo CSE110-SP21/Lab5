@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+https://aasemfituri.github.io/Lab5/
 
 ## Part 2:
 
